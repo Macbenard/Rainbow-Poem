@@ -1,4 +1,4 @@
-These are the colours of the rainbow and unicorn
+These are the colours of the rainbow and unicorn and ponies
 
 Red 
 Orange
@@ -6,4 +6,5 @@ Yellow
 Green
 Unicorn
 Blue
+pony
 Above a re rainbow colours and unicorns
